@@ -123,6 +123,3 @@ Estas visualizaciones permitieron comparar tiendas y detectar patrones clave.
 Vender la Tienda 4 representa **el menor impacto negativo en las operaciones generales**, permitiendo optimizar el portafolio de tiendas del Sr. Juan.
 
 ---
-
-
-¿Quieres alguna mejora extra?
